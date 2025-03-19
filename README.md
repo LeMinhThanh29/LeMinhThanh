@@ -23,7 +23,7 @@ I am actively looking for opportunities in:
 - Full-stack development
 
 📜 Certifications: 
-- Meta Front-End Developer Professional Certificate (Coursera) 
+- [Meta Front-End Developer Professional Certificate (Coursera)](https://www.coursera.org/account/accomplishments/professional-cert/PH7NJPPWPZSQ)
 
 🌐 Portfolio: 
 Discover more about my work and projects here: [leminhthanh29.github.io/portfolio](https://leminhthanh29.github.io/portfolio) 
