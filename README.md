@@ -4,7 +4,38 @@ Hi 👋 My name is Le Minh Thanh
 Full Stack Web Developer
 ------------------------
 
-🌟 About Me 🌟 I am a passionate and driven Full Stack Developer with solid programming skills and hands-on experience in both backend and frontend development. Proficient in frameworks such as Java Spring Boot, ReactJS, and VueJS, I constantly seek to learn and grow while delivering exceptional value to software development projects. 💻 Experience: - 👨‍💻Java Developer at Fujinet Systems JSC: Successfully upgraded a legacy system from Java 6 to Java 17, leveraging modern frameworks like Spring Boot to improve performance and maintainability. Designed and implemented new features tailored to client needs. - 🎨Front-End Developer: Created responsive UI designs using Figma and transformed them into functional code with HTML, CSS, JavaScript, and VueJS, ReactJS. Built reusable components to enhance scalability and efficiency. 🎯 What Sets Me Apart: - Strong ability to analyze and meet client requirements, including collaborating with Japanese partners. - Expertise in developing UI components, handling APIs, and ensuring seamless system functionality. - A quick learner and team player with a growth mindset, always ready to embrace new technologies. 🌟 Job Interests: I am actively looking for opportunities in: - Front-end development - Back-end development - Full-stack development 📜 Certifications: - Meta Front-End Developer Professional Certificate (Coursera) 🌐 Portfolio: Discover more about my work and projects here: \[leminhthanh29.github.io/portfolio\](https://leminhthanh29.github.io/portfolio) 📬 Let’s Connect: I’m always open to networking and discussing new ideas. Feel free to reach out and let’s create outstanding solutions together! Please feel free to connect and drop me a message through: Email: leminhthanhneo77@gmail.com Phone/Zalo: (+84) 767 612 498
+🌟 About Me 🌟 
+I am a passionate and driven Full Stack Developer with solid programming skills and hands-on experience in both backend and frontend development. Proficient in frameworks such as Java Spring Boot, ReactJS, and VueJS, I constantly seek to learn and grow while delivering exceptional value to software development projects. 
+
+💻 Experience: 
+- 👨‍💻Java Developer at Fujinet Systems JSC: Successfully upgraded a legacy system from Java 6 to Java 17, leveraging modern frameworks like Spring Boot to improve performance and maintainability. Designed and implemented new features tailored to client needs. 
+- 🎨Front-End Developer: Created responsive UI designs using Figma and transformed them into functional code with HTML, CSS, JavaScript, and VueJS, ReactJS. Built reusable components to enhance scalability and efficiency. 
+
+🎯 What Sets Me Apart: 
+- Strong ability to analyze and meet client requirements, including collaborating with Japanese partners. 
+- Expertise in developing UI components, handling APIs, and ensuring seamless system functionality. 
+- A quick learner and team player with a growth mindset, always ready to embrace new technologies. 
+
+🌟 Job Interests:
+I am actively looking for opportunities in:
+- Front-end development
+- Back-end development
+- Full-stack development
+
+📜 Certifications: 
+- Meta Front-End Developer Professional Certificate (Coursera) 
+
+🌐 Portfolio: 
+Discover more about my work and projects here: [leminhthanh29.github.io/portfolio](https://leminhthanh29.github.io/portfolio) 
+
+📬 Let’s Connect: 
+I’m always open to networking and discussing new ideas. Feel free to reach out and let’s create outstanding solutions together! 
+
+Please feel free to connect and drop me a message through:
+
+Email: leminhthanhneo77@gmail.com
+
+Phone/Zalo: (+84) 767 612 498
 
 * 🌍  I'm based in Ho Chi Minh City, Vietnam
 * 🖥️  See my portfolio at [See my portfolio](http://leminhthanh29.github.io/portfolio/)
